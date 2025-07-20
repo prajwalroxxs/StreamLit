@@ -1,4 +1,4 @@
-*Titanic Survival Predictor
+*Titanic Survival Predictor*
 
 A simple machine learning web app built using Streamlit and a Random Forest Classifier to predict passenger survival on the Titanic.
 
